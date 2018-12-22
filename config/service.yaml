@@ -1,0 +1,17 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: becky
+  labels:
+    app: becky
+    service: becky
+    tier: backend
+spec:
+  type: NodePort
+  # type: LoadBalancer
+  ports:
+    - port: 80
+  selector:
+    app: becky
+    service: becky
+    tier: backend

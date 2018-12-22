@@ -2,7 +2,7 @@ import websocket
 import thread
 import time
 
-WS_URL = "ws://localhost:8080/ws"
+WS_URL = "ws://192.168.99.100:30205/ws"
 BOT_NAME = "Becky"
 
 def on_message(ws, message):
