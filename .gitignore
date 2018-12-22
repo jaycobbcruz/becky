@@ -27,3 +27,4 @@ target/
 
 /src/main/resources/beckybot/bots/super/aimlif/*
 application.properties
+application-dev.properties

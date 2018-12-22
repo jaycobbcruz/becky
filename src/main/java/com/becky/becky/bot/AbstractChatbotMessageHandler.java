@@ -30,7 +30,6 @@ public abstract class AbstractChatbotMessageHandler {
 
     @Autowired
     private BotFactory botFactory;
-
     private final MapSessionRepository sessionRepository = new MapSessionRepository();
     private final Map<String, String> sessionMapIds = new HashMap<>();
 

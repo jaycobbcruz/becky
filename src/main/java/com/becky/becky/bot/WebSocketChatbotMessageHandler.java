@@ -12,9 +12,7 @@ public class WebSocketChatbotMessageHandler extends AbstractChatbotMessageHandle
 
     @Async
     public Future<Message> handleMessage(Message message) {
-        final Future<Message> botMessage = chatBot(message);
-        return botMessage;
+        return chatBot(message);
     }
-
 
 }
