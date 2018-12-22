@@ -53,6 +53,8 @@ fabric.properties
 # Editor-based Rest Client
 .idea/httpRequests
 
+target/
+
 .idea/becky.iml
 .idea/encodings.xml
 .idea/misc.xml
