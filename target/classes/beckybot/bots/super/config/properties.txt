@@ -1,0 +1,7 @@
+url:http://www.bieninc.com
+name:Becky
+email:bien@bieninc.com
+gender: female
+botmaster:Kuya Gwapo
+organization:Bien Inc
+version:0.0.5

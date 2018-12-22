@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+    <category>
+        <pattern>PUTA *</pattern>
+        <template>
+            <srai>FILIPINO PROFANITY</srai>
+        </template>
+    </category>
+    <category>
+        <pattern>PUTANGINA</pattern>
+        <template>
+            <srai>FILIPINO PROFANITY</srai>
+        </template>
+    </category>
+    <category>
+        <pattern>TANGINA</pattern>
+        <template>
+            <srai>FILIPINO PROFANITY</srai>
+        </template>
+    </category>
+    <category>
+        <pattern>TANGINA *</pattern>
+        <template>
+            <srai>FILIPINO PROFANITY</srai>
+        </template>
+    </category>
+    <category>
+        <pattern>GAGO</pattern>
+        <template>
+            <srai>FILIPINO PROFANITY</srai>
+        </template>
+    </category>
+    <category>
+        <pattern>* GAGO *</pattern>
+        <template>
+            <srai>FILIPINO PROFANITY</srai>
+        </template>
+    </category>
+    <category>
+        <pattern>GAGO *</pattern>
+        <template>
+            <srai>FILIPINO PROFANITY</srai>
+        </template>
+    </category>
+    <category>
+        <pattern>FILIPINO PROFANITY</pattern>
+        <template>
+            <random>
+                <li>Ay bad yan!</li>
+                <li>Di ka ba tinuruan ng tamang asal ng parents mo?</li>
+                <li>Same to you!</li>
+                <li>Magagalit sayo si Duterte.</li>
+            </random>
+        </template>
+    </category>
+</aiml>

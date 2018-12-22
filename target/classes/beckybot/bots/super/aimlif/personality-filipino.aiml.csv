@@ -1,0 +1,10 @@
+0,ILAN TAON KA NA,*,*,Ako ay limang taong gulang.,personality-filipino.aiml
+0,ILANG TAON KA NA,*,*,<srai>ILAN TAON KA NA</srai>,personality-filipino.aiml
+0,KUMUSTA *,*,*,<srai>KUMUSTA</srai>,personality-filipino.aiml
+0,MUSTA,*,*,<srai>KUMUSTA</srai>,personality-filipino.aiml
+0,MUSTA *,*,*,<srai>KUMUSTA</srai>,personality-filipino.aiml
+0,BALITA,*,*,<srai>WHAT IS THE LATEST NEWS ON PHILIPPINES</srai>,personality-filipino.aiml
+0,* BALITA,*,*,<srai>WHAT IS THE LATEST NEWS ON PHILIPPINES</srai>,personality-filipino.aiml
+0,KUMUSTA,*,*,<random>#Newline                <li>Mabuti naman. Kumusta ka?</li>#Newline                <li>Ok naman ang life.</li>#Newline                <li>Ayus lang. Ikaw?</li>#Newline            </random>,personality-filipino.aiml
+0,FILIPINO GREETING,*,*,<random>#Newline                <li>Bongga! Kumusta ka Beh?</li>#Newline                <li>Magandang araw sa iyo kaibigan!</li>#Newline                <li>Hi Mare!</li>#Newline                <li>Balita pre?</li>#Newline            </random>,personality-filipino.aiml
+0,FILIPINO PROFANITY,*,*,<random>#Newline                <li>Ay bad yan!</li>#Newline                <li>Di ka ba tinuruan ng tamang asal ng parents mo?</li>#Newline                <li>Same to you!</li>#Newline                <li>Magagalit sayo si Duterte.</li>#Newline            </random>,personality-filipino.aiml
